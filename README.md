@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo"  />
 </div>
 
+<br>
+
 
 
 <div align="left">
@@ -45,5 +47,7 @@
 
 
 </div>
+
+<br>
 
 <img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFtMnR3cW4weDc5M3k0dG1icnpkOHAwd29kNzM4bTRydnpmZ2M2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
