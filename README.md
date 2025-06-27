@@ -1,5 +1,5 @@
 ```zsh
-$ celefetch
+$ neofetch
 
                  '-                              oluiamerico@brazil
                   o+                             ------------------
